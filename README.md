@@ -21,11 +21,15 @@ A beautiful, modern, and fully-featured todo application built with React and Vi
 
 ## 🚀 Live Demo
 
-🔗 **[View Live App on Vercel](https://your-app-url.vercel.app)** ← *Update this after deployment*
+🔗 **[View Live App on Vercel](https://todo-lsgg63vbo-prathmeshmutkes-projects.vercel.app/)** ← *Update this after deployment*
 
 ## 📸 Screenshots
 
-*Add screenshots of your app here after deployment*
+<div align="center">
+  <img src="./screenshots/Todo_App.png" alt="Todo App Screenshot" width="800"/>
+  
+  *Main view of the Todo App showing the beautiful gradient interface, todo items, and filter buttons*
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -204,7 +208,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/PrathmeshMutke)
 
 ## 🙏 Acknowledgments
 
