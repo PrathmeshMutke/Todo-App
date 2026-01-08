@@ -53,7 +53,7 @@ function App() {
     <div className="app">
       <div className="container">
         <header className="header">
-          <h1>Todo App</h1>
+          <h1>Todo App for Prathmesh</h1>
           <p className="subtitle">Stay organized and get things done</p>
         </header>
         
